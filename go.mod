@@ -6,8 +6,8 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/ajg/form v1.5.1 // indirect
-	github.com/anacrolix/log v0.9.0
-	github.com/anacrolix/torrent v1.33.0
+	github.com/anacrolix/log v0.10.0
+	github.com/anacrolix/torrent v1.34.0
 	github.com/andrew-d/go-termutil v0.0.0-20150726205930-009166a695a2 // indirect
 	github.com/boypt/scraper v1.0.3
 	github.com/c2h5oh/datasize v0.0.0-20200825124411-48ed595a09d2
@@ -66,6 +66,7 @@ require (
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
 	github.com/elliotchance/orderedmap v1.4.0 // indirect
 	github.com/google/btree v1.0.1 // indirect
+	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect

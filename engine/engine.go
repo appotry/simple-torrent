@@ -386,7 +386,7 @@ func (e *Engine) StopTorrent(infohash string) error {
 	}
 
 	if t.t.Info() != nil {
-		t.t.CancelPieces(0, t.t.NumPieces())
+		t.t.CancelPieces(0, t.t.NumPieces(), "")
 	}
 
 	t.Started = false
